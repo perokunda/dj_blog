@@ -1,0 +1,10 @@
+# Ignore directories
+mydjango/myapp/__pycache__/
+mydjango/mydjango/__pycache__/
+#mydjango/myapp/static/images/
+venv/
+
+# Ignore files
+requirements.txt
+uwsgi.log
+uwsgi.pid
