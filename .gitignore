@@ -1,9 +1,9 @@
 # Ignore directories
 
-blogproject/blogproject/__pycache__
+blogproject/blogproject/__pycache__/
 blogproject/blogproject/__init__.py
 venv/
-blogproject/blogpost/__pycache__
+blogproject/blogpost/__pycache__/
 blogproject/blogpost/__init__.py
 
 # Ignore files
